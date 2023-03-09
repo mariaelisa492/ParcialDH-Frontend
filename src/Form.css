@@ -1,0 +1,13 @@
+.Form {
+  text-align: center;
+}
+
+.error-messages{
+  color: red;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
